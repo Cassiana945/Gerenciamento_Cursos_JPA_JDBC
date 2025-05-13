@@ -5,7 +5,9 @@ usando tanto JPA quanto JDBC, destacando as diferenças entre as duas abordagens
 → Para iniciar o banco de dados, insira os seguintes comandos no terminal do projeto:
 
 cd AtividadeJPA
+
 ls docker-compose.yml
+
 docker-compose up -d
 
 Se as tabelas não forem criadas automaticamente copie e cole as inserções do arquivo schema.sql
