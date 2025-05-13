@@ -16,6 +16,7 @@ que está dentro de resources no terminal de projeto.
 → Para testar os endpoints JDBC:
 
 Clique run em AtividadeJpaApplication
+
 Acesse: http://localhost:8080/swagger-ui/index.html#/
 
 → Para realizar os testes JPA:
